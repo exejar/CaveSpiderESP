@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "${name}",
+    "description": "${description}",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "${url}",
+    "updateUrl": "${updateUrl}",
+    "authorList": [
+      "exejar"
+    ],
+    "credits": "Created by: exejar",
+    "logoFile": "",
+    "screenshots": [ ],
+    "dependencies": [ ]
+  }
+]
